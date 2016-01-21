@@ -1,0 +1,19 @@
+{
+  "name": "img-download",
+  "version": "1.0.0",
+  "description": "download images from string with an separator\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Durl strings with an separator",
+  "main": "main.js",
+  "dependencies": {
+    "request": "^2.67.0",
+    "sanitize-filename": "^1.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "images"
+  ],
+  "author": "Jesus Perales.",
+  "license": "ISC"
+}
